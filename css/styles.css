@@ -3225,11 +3225,12 @@ td:last-child {
 	transform  : translate(0.3rem, -0.2em);
 }
 
-.s-header__logo a {
+.s-header__logo a h1{
 	display: block;
 	margin : 0;
 	padding: 0;
 	outline: 0;
+	color: #b5b7b7;
 	border : none;
 }
 
